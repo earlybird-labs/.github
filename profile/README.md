@@ -1,9 +1,3 @@
-# Early Bird Labs :bird: :rocket:
-
-![Early Bird Labs Logo](./assets/logo.png) <!-- Replace with your company logo URL -->
-
----
-
 ## :mag_right: Who We Are
 
 We are **Early Bird Labs**, a startup studio specializing in crafting high-quality software solutions. We primarily focus on the MERN stack and React Native for mobile development. Additionally, we're experts in Python-based applications, including generative API hosted endpoints and Python microservices.
