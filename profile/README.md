@@ -16,16 +16,9 @@ We are **Early Bird Labs**, a startup studio specializing in crafting high-quali
 - [Title of the Blog](https://earlybirdlabs.io/blog/blog-title) - Brief description
 - [Another Blog Title](https://earlybirdlabs.io/blog/another-blog-title) - Brief description
 
-## :tada: Cool Things
-
-<!-- Share some cool achievements, technologies you're excited about, or other highlights -->
-- We recently launched [XYZ Feature](https://github.com/EarlyBirdLabs/ProjectName/releases/tag/v1.0)
-- We are exploring the potentials of Machine Learning and AI
-- Named in the top 10 startup studios of 2023
 
 ## :books: Learning Resources
 
-<!-- Add learning resources like tutorials, documentation, and others that you find useful -->
 - [ReactJS Documentation](https://reactjs.org/docs/getting-started.html)
 - [NodeJS Official Site](https://nodejs.org/en/docs/)
 - [Python Microservices](https://realpython.com/microservices-python/)
