@@ -1,6 +1,6 @@
 ## :mag_right: Who We Are
 
-We are Early Bird Labs, a product studio with a multi-disciplinary approach to innovation. Specializing in crafting high-quality software and hardware solutions, our technological expertise is vast and varied. On the software front, we primarily focus on the MERN stack and React Native for mobile development, complemented by our extensive experience in Python-based applications, generative APIs, and microservices. In parallel, our hardware endeavors span embedded systems, IoT, and robotics. We are also well-versed in the design and development of custom PCBs, firmware, and hardware-software integration.
+We're a product studio that combines software and hardware development to create innovative solutions. Our expertise includes web and mobile development using the MERN stack and React Native, as well as Python for building APIs and microservices. We also work with embedded systems, IoT, robotics, and design custom PCBs. Our team integrates hardware and software to deliver comprehensive products.
 
 [Visit our website](https://earlybirdlabs.io)
 
