@@ -1,4 +1,4 @@
-## :mag_right: Who We Are
+## Who We Are
 
 We're a versatile product studio that creates innovative solutions across software and hardware. Our team is skilled in developing web and mobile applications using the MERN stack and React Native. We also leverage Python to build robust APIs and microservices. In the hardware realm, we work with embedded systems, IoT, robotics, and design custom PCBs. Whether it's a pure software solution or a hardware-software integrated product, we have the expertise to bring ideas to life.
 
